@@ -14,7 +14,7 @@ import cop5556sp17.AST.*;
 
 
 public class ASTTest {
-
+	//final block
 	static final boolean doPrint = true;
 	static void show(Object s){
 		if(doPrint){System.out.println(s);}
